@@ -1,3 +1,16 @@
+# Opening the websites
+
+## Activating the backend
+First open the backend link so that the backend runs smoothly because after deploying it is noticed that the backend sleeps when not online or not recently fetched online. You can first open it by clicking on this link: [backend](https://ecommerce-backend-b9t1.onrender.com/)
+Link to the backend source code: [code](https://github.com/LeoParadox10/Ecommerce-backend)
+
+## The main  website 
+Link to the main website: [site](https://ecommerce-frontend-alpha-weld.vercel.app/)
+
+## The Admin Panel 
+You can use the admin panel here: [admin](https://ecommerce-admin-psi-one.vercel.app/)
+Link to the admin page source code: [code](https://github.com/LeoParadox10/Ecommerce-admin)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
